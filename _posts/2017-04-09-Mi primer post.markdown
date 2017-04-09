@@ -42,9 +42,9 @@ Encontré que [GitHub](https://github.com/), el ya conocido sitio para desarroll
 
 Esto es una genialidad, tu sitio web tiene a su disposición todas las herramientas ofrecidas para tus códigos: control de versiones, merge, sincronización local, pull, push, etc.
 
-En [Github-Pages](https://pages.github.com/) se encuentran los pasos para crear un repositorio apto para usarlo de sitio web. `Utilicé mauroba.github.io` como nombre del repositorio porque me da la posibilidad de que ese mismo se convierta en la url raíz. En una primera instancia utilicé el nombre `blog` pero resultó que para acceder al mismo debía usar la url `mauroba.github.io/blog`.
+En [Github-Pages](https://pages.github.com/) se encuentran los pasos para crear un repositorio apto para usarlo de sitio web. Utilicé `mauroba.github.io` como nombre del repositorio porque me da la posibilidad de que ese mismo se convierta en la url raíz. En una primera instancia utilicé el nombre `blog` pero resultó que para acceder al mismo debía usar la url `mauroba.github.io/blog`.
 
-En la configuración del repositorio también se encuentra la posibilidad de utilizar el dominio que compré.
+En la configuración del repositorio encontré la posibilidad de utilizar el dominio que compré (esto además requirió que cree un CNAME en el servidor DNS proporcionado por Freenom).
 
 Al finalizar esta etapa, si elijes un template para tu sitio, ya puedes acceder al mismo.
 
