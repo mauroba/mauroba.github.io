@@ -5,4 +5,30 @@ date:   2017-04-01 21:45:23
 categories: [Menu]
 tags: [About]
 ---
-Prueba 1
+<!--- <img style="float: right;" src="../../images/About.jpg"> --->
+
+¡Hola!
+
+Me llamo Mauro y en este blog podrán encontrar algunas cosas que veo interesante compartir. Algunas de ellas serán inquietudes, pero otras pueden ser guías o tutoriales que realizo en mi labor diaria.
+
+## ¿Mi labor diaria?
+
+Si te estás preguntando cuál es, te puedo contar algo más.
+
+Trabajo en el área de las telecomunicaciones, estoy muy cerquita de ser ingeniero (quizás edite este post a principios del año que viene). Me espacializo en temas afines a la _Telefonía IP_ y _Contact Center_, pero meto manos en algunos más: administración de redes IP, monitoreo, Wifi y alguno que otro que pueda surgir.
+
+¡Pero la idea no es aburrirte! Así que veamos qué me motivó a hacer este blog.
+
+## ¿A nadie más le pasó?
+
+¿Cuántas veces nos decimos esto?
+
+Perdemos horas buscando solucionar algún tipo de inconveniente y esta pregunta surge de la nada, se engendra desde nuestro interior y nos empuja hacia la red de información más grande hasta ahora, Internet. Porque es así, seguro que a alguien más le pasó. Y ya no estamos en la época en que nuestra empresa de soporte era la única que poseía el _bomberito_ que apaga incendios.
+
+## Hay que compartir
+
+Hacer accesible soluciones, _workarounds_, procedimientos, limitaciones e incluso ideas, es el fin prinipal de este blog. Espero poder ayudar a compañeros de esta super red, acortando así el tiempo de resolución de sus propios incidentes o diseños.
+
+## ¡Espero verte seguido por aquí!
+
+Es todo por ahora, pero siéntete libre de enviarme un mail o [mencionarme en twitter](https://twitter.com/intent/tweet?user_id=848257208970350595) si tienes algún comentario.
