@@ -24,7 +24,7 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:image" content="{{ site.url }}/images/fbprofile.jpg" />
   <meta property="og:url" content="{{ site.url }}{{ page.url}}" />
-  <meta property="og:description" content="{{page.excerpt}}" />
+  <meta property="og:description" content="{{page.excerpt | strip_html}}" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="{{ "images/favicons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ "images/favicons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
