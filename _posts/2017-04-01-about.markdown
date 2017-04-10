@@ -27,7 +27,7 @@ Perdemos horas buscando solucionar algún tipo de inconveniente y esta pregunta 
 
 ## Hay que compartir
 
-Hacer accesible soluciones, _workarounds_, procedimientos, limitaciones e incluso ideas, es el fin prinipal de este blog. Espero poder ayudar a compañeros de esta super red, acortando así el tiempo de resolución de sus propios incidentes o diseños.
+Hacer accesible soluciones, _workarounds_, procedimientos, limitaciones e incluso ideas, es el fin principal de este blog. Espero poder ayudar a compañeros de esta super red, acortando así el tiempo de resolución de sus propios incidentes o diseños.
 
 ## ¡Espero verte seguido por aquí!
 
