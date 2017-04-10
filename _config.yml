@@ -3,7 +3,7 @@ title: Mauro Barbosa (mauroba)
 description: Porque el conocimiento ocupa espacio. Aquí encontrarán mis experiencias con la tecnología. ¿Diario de un Nerd? ¡Adelante, pasen!
 url: 'http://mauroba.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-97096903-1'
 disqus_shortname: 'mauroba'
 
 author:
@@ -33,7 +33,7 @@ kramdown:
   # use Github Flavored Markdown
   input: GFM
   # do not replace newlines by <br>s
-  hard_wrap: false 
+  hard_wrap: false
 
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
