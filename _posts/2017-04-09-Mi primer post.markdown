@@ -4,7 +4,7 @@ comments: false
 date:   2017-04-09 17:00:00
 categories: [Programación]
 tags: [Jekyll]
-img: "Mi primer post.png"
+img: "Mi-primer-post.png"
 excerpt: Quería escribir un blog, pero <strong>no solo el contenido</strong>. No quería caer en servicios que te dejan todo listo, son dueños de toda tu informaicón y pierdes todo si dejan de existir, pero quería que sea gratis. Aquí les cuento <strong>cómo lo hice</strong>.
 ---
 Palabras clave: Jekyll, Blog, GitHub-pages, Estático, Hosting
