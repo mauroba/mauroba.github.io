@@ -21,7 +21,7 @@ Esto implica que tengo el código fuente, lo modifico a gusto, no tengo las rest
 
 ## Búsqueda de un dominio.
 
-Ya tengo un dominio pago: [www.seveloquedigo.com](www.seveloquedigo.com) (dedicado al humor) y no quería pagar dos. En un futuro, si todo va bien, veré esta posibilidad, pero por ahora soy mi único lector. jaja.
+Ya tengo un dominio pago: [www.seveloquedigo.com](http://www.seveloquedigo.com) (dedicado al humor) y no quería pagar dos. En un futuro, si todo va bien, veré esta posibilidad, pero por ahora soy mi único lector. jaja.
 
 Si quieren tener una idea, cuesta 14 USD al año, en realidad no es un servicio caro.
 
