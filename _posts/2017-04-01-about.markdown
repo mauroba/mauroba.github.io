@@ -1,9 +1,10 @@
 ---
 title:  "¿Quién soy?"
+hidden: true
 comments: false
 date:   2017-04-01 21:45:23
-categories: [Menu]
-tags: [About]
+categories: []
+tags: []
 ---
 <!--- <img style="float: right;" src="../../images/About.jpg"> --->
 

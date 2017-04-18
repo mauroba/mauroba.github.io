@@ -4,17 +4,16 @@ comments: true
 date:   2017-04-09 17:00:00
 categories: [Programación]
 tags: [Jekyll]
+keywords: [Jekyll, Blog, GitHub-pages, Estático, Hosting]
 excerpt: Quería escribir un blog, pero <strong>no solo el contenido</strong>. No quería caer en servicios que te dejan todo listo, son dueños de toda tu informaicón y pierdes todo si dejan de existir, pero quería que sea gratis. Aquí les cuento <strong>cómo lo hice</strong>.
 ---
-Palabras clave: Jekyll, Blog, GitHub-pages, Estático, Hosting
-
 Primero quiero agradecer a [Gervasio Marchand](https://g3rv4.com/), programador, ingeniero, nerd y amigo. No necesariamente en ese orden. :P Él despertó mi interés en este emprendimiento y algunos de sus posts fueron de gran ayuda.
 
 Aquí va el resumen de cómo hice este blog.
 
 ## ¿Qué buscaba?
 
-_Cortito y al pie_: un blog del que tuviera el control.
+_Cortito y al pie:_ un blog del que tuviera el control.
 
 Esto implica que tengo el código fuente, lo modifico a gusto, no tengo las restricciones que imponen los servicios de blog gratuitos, tengo una copia local de todo el sitio y no importa si el lugar de hosting deja de existir.
 
