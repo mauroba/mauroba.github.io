@@ -2,7 +2,6 @@
   <i class="icon icon-list btn-mobile-menu__icon"></i>
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
-
 <header class="panel-cover" style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})">
   <div class="panel-main">
 
@@ -21,7 +20,8 @@
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="Blog de {{ site.title }}" class="blog-button">Blog</a></li>
               <li class="navigation__item"><a href="{% post_url 2017-04-01-about %}" title="Información de {{ site.title }}" class="blog-button">¿Quién soy?</a></li>
-			      </ul>
+              <li class="navigation__item"><a href="{% post_url 2017-04-01-subscrive %}" title="Subscríbete" class="blog-button">¡Entérate de nuevos artículos!</a></li>
+            </ul>
           </nav>
 
           		  <hr class="panel-cover__divider panel-cover__divider--secondary">
@@ -85,12 +85,9 @@
                 <span class="label">RSS</span>
               </a>
             </li>
-
             </ul>
           </nav>
-
         </div>
-
       </div>
 
     </div>
