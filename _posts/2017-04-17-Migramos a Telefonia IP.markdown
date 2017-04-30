@@ -9,7 +9,7 @@ tags: [Telefonía]
 keywords: [Cisco, CUCM, CallManager, Telefonía IP]
 excerpt: Llega el momento en que nos preguntamos si valdrá la pena migrar hacia la telefonía IP. Les contaré cómo lo hicimos nosotros y algunos detalles que viene bien ir pensando.
 ---
-![](/images/posts/1896_telephone.png)
+![](/images/posts/1896_tel.png)
 <!-- <img src="/images/posts/1896_telephone.jpg" style="float: right;"  width="300">-->
 Llega el momento en que nos preguntamos si valdrá la pena migrar hacia la telefonía IP.
 
