@@ -116,5 +116,7 @@ Pero el conocimiento del personal de Teléfonos no deja de ser valioso. Debemos 
 ¡Se extendió el post! Y con un montón de otras cosas para contar. Los invito a compartirlo si les resultó interesante e incluso a dejarme su opinión.
 
 Por el momento no he creado una sección de subscripción, pero están invitados a seguirme en twitter.
+> **EDIT** \\
+> Ya incorporé la sección **¡Entérate de nuevos artículos!** que podrán encontrar en el menú del sitio. Ahí tienen la posibilidad de **Subscribirse** a la lista de correo y así recibir las notificaciones de nuevos artículos.
 
 ¡Hasta la próxima!
