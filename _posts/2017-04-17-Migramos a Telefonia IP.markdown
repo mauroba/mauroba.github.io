@@ -11,7 +11,6 @@ excerpt: Llega el momento en que nos preguntamos si valdrá la pena migrar hacia
 ---
 ![](/images/posts/1896_telephone.png)
 <!-- <img src="/images/posts/1896_telephone.jpg" style="float: right;"  width="300">-->
-
 Llega el momento en que nos preguntamos si valdrá la pena migrar hacia la telefonía IP.
 
 --- ¿Lo vale?  
