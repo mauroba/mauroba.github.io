@@ -2,7 +2,7 @@
 title:  "Migramos a telefonía IP ¿Pero cómo?"
 comments: true
 hidden: false
-image: "1896_telephone.png"
+image: "1896_tel.png"
 date: 2017-04-26 23:00:00
 categories: [Telefonía, Opinión]
 tags: [Telefonía]
