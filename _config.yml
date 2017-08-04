@@ -4,7 +4,7 @@ description: Porque el conocimiento ocupa espacio. Aquí encontrarán mis experi
 url: 'http://mauroba.tk'
 baseurl: '/'
 google_analytics: 'UA-97096903-1'
-disqus_shortname: ''
+# disqus_shortname: 'mauroba'
 
 author:
   name: 'Mauro Barbosa'
